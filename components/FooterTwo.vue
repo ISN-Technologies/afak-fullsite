@@ -15,7 +15,7 @@
                       <a href="mailto:info@afaktanzania.co.tz">info@afaktanzania.co.tz</a>
                     </div>
                     <div class="call">
-                      <a href="tel:+255755270604">+255 755 270 604</a>  <a href="tel: +255766767210"> +255 766 767 210</a>
+                      <a href="tel: ++255757581111"> +255 757 581 111</a>
                     </div>
                     <div class="social">
                       <ul>

@@ -9,7 +9,7 @@
                 <ul>
                   <li><a href="mailto:info@afaktanzania.co.tz"><i class="flaticon-email-2"></i> info@afaktanzania.co.tz</a></li>
 <!--                  <li><a href="tel: +255766767210"><i class="flaticon-call"></i> +255 766 767 210</a></li>-->
-                  <li><a href="tel: ++255755270604"><i class="flaticon-call"></i> +255 755 270 604</a></li>
+                  <li><a href="tel: ++255757581111"><i class="flaticon-call"></i> +255 757 581 111</a></li>
                   <li><a href=""><i class="flaticon-pin"></i> Amverton Tower, Masaki, Dar es Salaam, Tanzania </a></li>
                 </ul>
               </div>
