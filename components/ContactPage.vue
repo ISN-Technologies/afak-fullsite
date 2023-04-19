@@ -16,7 +16,7 @@
             <div class="item center">
               <i class="flaticon-calling"></i>
               <span>Phone</span>
-              <p>+255 755 270 604 | +255 766 767 210</p>
+              <p>+255 757 581 111</p>
             </div>
             <div class="item">
               <i class="flaticon-address"></i>
