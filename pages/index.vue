@@ -1,65 +1,16 @@
 <template>
-  <div>
-    <NavThree/>
-<!--    <Slider/>-->
-    <SliderTwo/>
-<!--    <NanoArea/>-->
-<!--    <ProjectArea/>-->
-    <ServicesArea />
-
-<!--    <SolutionArea/>-->
-    <VideoArea/>
-<!--    <FunFactArea/>-->
-
-    <BuildingArea/>
-<!--    <BrandArea/>-->
-<!--    <ClientArea/>-->
-    <FaqBrandArea/>
-    <FaqArea/>
-    <FutureArea/>
-    <FooterTwo/>
+  <div class="container">
+    <h1 style="margin-top: 30px; margin-bottom: 20px; color: #77c72d; text-align: center">Sorry!</h1>
+    <h2 style="margin-top: 20px; margin-bottom: 20px; color: #c7992d; text-align: center"> &#x1F6E0; Our website is currently under
+      maintenance </h2>
+    <p style="margin-top: 20px; margin-bottom: 20px;  text-align: center">For enquiries you can reach to us via <a
+      href="mailto:info@afaktanzania.co.tz">email</a> or chat with us on <a href="wa.link/yrysqm">whatsapp.</a></p>
   </div>
 </template>
 
 <script>
 
-import SliderTwo from "~/components/SliderTwo";
-import Slider from "~/components/Slider";
-import ServiceArea from "../components/ServiceArea";
-import SolutionArea from "../components/SolutionArea";
-import VideoArea from "../components/VideoArea";
-import BuildingArea from "../components/BuildingArea";
-import BrandArea from "../components/BrandArea";
-import ClientArea from "../components/ClientArea";
-import FunFactArea from "../components/FunFactArea";
-import ProjectArea from "../components/ProjectArea";
-import FaqBrandArea from "../components/FaqBrandArea";
-import FaqArea from "../components/FaqArea";
-import FutureArea from "../components/FutureArea";
-import ProjectContactArea from "~/components/ProjectContactArea";
-import FooterTwo from "../components/FooterTwo";
-import NavThree from "~/components/NavThree";
-import NanoArea from "~/components/NanoArea";
-import ServicesArea from "~/components/ServicesArea.vue";
-
 export default {
-  components: {
-    ServicesArea,
-    NanoArea,
-    NavThree,
-    FooterTwo,
-    FutureArea,
-    FaqArea,
-    ProjectContactArea,
-    FaqBrandArea,
-    ProjectArea,
-    FunFactArea,
-    ClientArea,
-    BrandArea,
-    BuildingArea,
-    VideoArea,
-    SolutionArea,
-    SliderTwo,
-  }
+  name: "Index"
 }
 </script>
