@@ -1,36 +1,36 @@
 <template>
-  <div class="faq-brand-area bg_cover" style="background-image: url(/assets/images/faq-bg1.jpg);">
+  <div class="faq-brand-area bg_cover" style="background-image: url(/assets/images/faq-bg1.png);">
     <div class="container">
       <div class="row brand-active">
         <swiper :options="swiperOptions">
           <swiper-slide>
           <div class="brand-item">
-            <a href="#"><img src="/assets/images/logo.png" alt="brand"></a>
+            <a href="#"><img src="/assets/images/partners/salem.png" alt="brand"></a>
           </div>
           </swiper-slide>
           <swiper-slide>
           <div class="brand-item">
-            <a href="#"><img src="/assets/images/logo.png" alt="brand"></a>
+            <a href="#"><img src="/assets/images/partners/crje.png" alt="brand"></a>
           </div>
           </swiper-slide>
           <swiper-slide>
           <div class="brand-item">
-            <a href="#"><img src="/assets/images/logo.png" alt="brand"></a>
+            <a href="#"><img src="/assets/images/partners/masasi.png" alt="brand"></a>
+          </div>
+          </swiper-slide>
+<!--          <swiper-slide>-->
+<!--          <div class="brand-item">-->
+<!--            <a href="#"><img src="//assets/images/partners/ranks.png" alt="brand"></a>-->
+<!--          </div>-->
+<!--          </swiper-slide>-->
+          <swiper-slide>
+          <div class="brand-item">
+            <a href="#"><img src="/assets/images/partners/petra.png" alt="brand"></a>
           </div>
           </swiper-slide>
           <swiper-slide>
           <div class="brand-item">
-            <a href="#"><img src="/assets/images/logo.png" alt="brand"></a>
-          </div>
-          </swiper-slide>
-          <swiper-slide>
-          <div class="brand-item">
-            <a href="#"><img src="/assets/images/logo.png" alt="brand"></a>
-          </div>
-          </swiper-slide>
-          <swiper-slide>
-          <div class="brand-item">
-            <a href="#"><img src="/assets/images/logo.png" alt="brand"></a>
+            <a href="#"><img src="/assets/images/partners/ranks.png" alt="brand"></a>
           </div>
           </swiper-slide>
         </swiper>

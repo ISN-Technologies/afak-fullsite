@@ -1317,7 +1317,7 @@ p {
       .industri-services-area .services-item .services-thumb img {
         width: 100%; }
     .industri-services-area .services-item .services-content {
-      background: #fff;
+      background: #1FAA09;
       border: 1px solid #eaeaea;
       padding: 65px 50px 45px; }
       @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -1330,9 +1330,11 @@ p {
         .industri-services-area .services-item .services-content {
           padding: 65px 50px 45px; } }
       .industri-services-area .services-item .services-content .title {
-        font-size: 20px;
+        color: #fff;
+        font-size: 12px;
+        text-align: center;
         text-transform: uppercase;
-        font-weight: 400; }
+        font-weight: 600; }
       .industri-services-area .services-item .services-content p {
         line-height: 34px;
         color: #7f8692;

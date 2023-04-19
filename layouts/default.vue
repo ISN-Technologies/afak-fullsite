@@ -12,7 +12,7 @@
     },
     head(){
       return {
-        title: "AFAK Tanzania - Site Locked",
+        title: "AFAK Tanzania",
       }
     },
     mounted(){
